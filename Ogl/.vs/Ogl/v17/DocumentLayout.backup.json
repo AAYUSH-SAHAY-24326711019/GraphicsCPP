@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\GraphicsCPP\\Ogl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3C66ED8-781D-4E35-B26B-33C8C835D0FE}|Ogl.vcxproj|C:\\Users\\Lenovo\\Desktop\\GraphicsCPP\\Ogl\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B3C66ED8-781D-4E35-B26B-33C8C835D0FE}|Ogl.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B3C66ED8-781D-4E35-B26B-33C8C835D0FE}|Ogl.vcxproj|C:\\Users\\Lenovo\\Desktop\\GraphicsCPP\\Ogl\\one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3C66ED8-781D-4E35-B26B-33C8C835D0FE}|Ogl.vcxproj|solutionrelative:one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C66ED8-781D-4E35-B26B-33C8C835D0FE}|Ogl.vcxproj|C:\\Users\\Lenovo\\Desktop\\GraphicsCPP\\Ogl\\Main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3C66ED8-781D-4E35-B26B-33C8C835D0FE}|Ogl.vcxproj|solutionrelative:Main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GraphicsCPP\\Ogl\\Main.cpp",
-              "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GraphicsCPP\\Ogl\\Main.cpp",
-              "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Title": "one.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GraphicsCPP\\Ogl\\one.cpp",
+              "RelativeDocumentMoniker": "one.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GraphicsCPP\\Ogl\\one.cpp*",
+              "RelativeToolTip": "one.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-28T05:14:40.758Z",
+              "WhenOpened": "2025-11-30T05:32:16.521Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main1.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GraphicsCPP\\Ogl\\Main1.cpp",
+              "RelativeDocumentMoniker": "Main1.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GraphicsCPP\\Ogl\\Main1.cpp",
+              "RelativeToolTip": "Main1.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T05:39:53.764Z",
               "EditorCaption": ""
             }
           ]
